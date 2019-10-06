@@ -8,4 +8,8 @@ Try it out using the simple commands :-
 # python legolass.py &lt;input image&gt; &lt;grid size&gt;
 
 Example :-
-python legolass.py legolas.jpg 4
+python legolass.py legolas.jpg 8
+
+![alt text](https://raw.githubusercontent.com/rysvk/LEGOlass/master/lego_toy.jpg) 
+
+![alt text](https://raw.githubusercontent.com/rysvk/LEGOlass/master/legolass_toy.jpg)
