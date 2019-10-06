@@ -5,7 +5,7 @@ The mosaic pattern are generated based on a grid based system for the input imag
 
 Try it out using the simple commands :-
 
-# python legolass.py <input image> <grid size>
+# python legolass.py &lt;input image&gt; &lt;grid size&gt;
 
 Example :-
 python legolass.py legolas.jpg 4
